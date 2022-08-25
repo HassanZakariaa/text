@@ -1,0 +1,11 @@
+true and false ;
+1)true 
+2)true
+3)false (java script dont have class)
+4)false	 ( normal methods and abstract methods )
+5)true
+6)false (more interfaces)
+7)true
+8)false(	
+9)true
+10)true
